@@ -1,0 +1,12 @@
+﻿  Hotal.cpp
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(64,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(66,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(102,6): warning C4101: 'user_index': unreferenced local variable
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(100,6): warning C4101: 'index': unreferenced local variable
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(125,6): warning C4101: 'serv_index': unreferenced local variable
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(271,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\Hotal.cpp(325,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\coding\c++\assignment\Hotel_Reservation_System\Hotel_Reservation_System\main.cpp(18,6): warning C4101: 'ackn': unreferenced local variable
+  Generating Code...
+  Hotel_Reservation_System.vcxproj -> D:\coding\c++\assignment\Hotel_Reservation_System\Debug\Hotel_Reservation_System.exe
